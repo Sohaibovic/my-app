@@ -1,4 +1,4 @@
-node{
+node ('Saitama'){
    stage('SCM Checkout'){
      git 'https://github.com/Sohaibovic/my-app'
    }
